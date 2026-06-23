@@ -176,10 +176,3 @@ A modern portfolio website built with Next.js, TypeScript, Tailwind CSS and Glas
 
 </p>
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumu749&theme=tokyo-night)
-
----
-
-⭐ Always learning, building, and improving.
