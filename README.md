@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumaiya-alam749/">
+    <img width="1983" height="793" alt="LinkedInBanner" src="https://github.com/user-attachments/assets/5932c9d5-bb1d-4515-8cf0-bdc25d16c74c" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Sumaiya Alam</h1>
 
