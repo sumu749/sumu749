@@ -48,28 +48,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu749&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=sumu749&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumu749&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
