@@ -22,10 +22,56 @@ I'm a MERN & Next.js developer who enjoys building clean, accessible, and perfor
 
 ---
 
-## 🛠 Tech & Tools
+## 🧰 Skills (organized)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="36"/>
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="Responsive" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=accessibility" alt="a11y" width="36"/>
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=rest" alt="REST" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=serverless" alt="Serverless" width="36"/>
+</p>
+
+### Databases & Authentication
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="36"/>
+</p>
+
+### Tools, CI & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=eslint" alt="ESLint" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="36"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="36"/>
 </p>
 
 ---
@@ -41,22 +87,6 @@ I'm a MERN & Next.js developer who enjoys building clean, accessible, and perfor
 | [🧠 SkillForgeAI](https://github.com/sumu749/skillForgeAI) | Learning platform with course browsing and an AI tutor assistant. | TypeScript, React, Node |
 
 For more projects, see my repositories: https://github.com/sumu749
-
----
-
-## 🔍 Quick Links
-
-- Portfolio: [Nexusfolio](https://github.com/sumu749/nexusfolio)
-- Client / Server projects: eTuitionBd and RentWheel (see repo lists above)
-- Live demos: Check individual repositories for deployed links (some projects include Netlify/Vercel links)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyo-night" />
-</p>
 
 ---
 
