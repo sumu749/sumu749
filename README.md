@@ -7,40 +7,22 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Alam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=9B5DE0&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Next.js+Developer;Problem+Solver;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=9B5DE0&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Next.js+Developer;Problem+Solver;Building+Modern+Web+Applications;Learning+TypeScript" />
 </p>
-
-<table>
-<tr>
-<td width="50%">
-
-## 👩‍💻 About Me
-
-- 🚀 MERN Stack Developer
-- ⚡ Next.js Enthusiast
-- 🎯 Problem Solver
-- 🌱 Learning TypeScript
-- 🔥 Building Full Stack Apps
-
-</td>
-
-<td width="50%">
-
-## 🚀 Current Activities
-
-- Next.js App Router
-- Advanced React
-- Backend Architecture
-- MongoDB Optimization
-- Portfolio Development
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🛠 Skills
+## 👩‍💻 About Me
+
+I'm a MERN & Next.js developer who enjoys building clean, accessible, and performant web applications. I focus on practical, user-centered solutions and continuously learn modern tooling and patterns (TypeScript, App Router, Tailwind, Firebase).
+
+- 🚀 Building full-stack web apps (React, Next.js, Node)
+- 🌱 Currently learning TypeScript & advanced React patterns
+- 🎯 Interested in backend architecture, databases, and developer experience
+
+---
+
+## 🛠 Tech & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode" />
@@ -51,10 +33,30 @@
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
-|----------|-------------|---------|
-| 🎓 E-Tuition BD | Student & Tutor Platform | MERN |
-| 🚗 RentWheel | Car Rental System | React + Node |
-| 💼 Nexusfolio | Portfolio Website | Next.js |
+|---|---|---|
+| [🎓 eTuitionBd (client)](https://github.com/sumu749/eTuitionBd-client-side) | Tutor & student marketplace with role-based dashboards, search, favorites, and posting flows. | React, Vite, Node, MongoDB |
+| [🚗 RentWheel (client)](https://github.com/sumu749/rentWheel-client-side) | Car rental booking platform with modern UI and booking workflows. | React, Node |
+| [💼 Nexusfolio](https://github.com/sumu749/nexusfolio) | Personal portfolio built with Next.js — showcases projects and contact workflows. | Next.js, TypeScript |
+| [📦 Inventra for Revenio](https://github.com/sumu749/Inventra-for-revenio) | Minimal inventory starter app using Next.js App Router and Firebase auth. | Next.js, Tailwind, Firebase |
+| [🧠 SkillForgeAI](https://github.com/sumu749/skillForgeAI) | Learning platform with course browsing and an AI tutor assistant. | TypeScript, React, Node |
+
+For more projects, see my repositories: https://github.com/sumu749
+
+---
+
+## 🔍 Quick Links
+
+- Portfolio: [Nexusfolio](https://github.com/sumu749/nexusfolio)
+- Client / Server projects: eTuitionBd and RentWheel (see repo lists above)
+- Live demos: Check individual repositories for deployed links (some projects include Netlify/Vercel links)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -86,8 +88,4 @@
 
 ---
 
-<p align="center">
-
-### ✨ Turning Ideas Into Elegant Digital Experiences
-
-</p>
+<p align="center">✨ Turning ideas into elegant digital experiences — thanks for visiting!</p>
