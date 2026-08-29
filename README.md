@@ -23,16 +23,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sumu749">
-    <img src="https://img.shields.io/github/followers/sumu749?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/sumu749?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sumu749?label=Total%20Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sumaiya-alam749/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+
+<a href="mailto:sumaiya.cse.tec@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/sumu749">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://nexusfolio-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-9B5DE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sumaiya-alam749/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </p>
+
 
 ---
 
@@ -142,25 +151,13 @@ I started my programming journey with **C in 2023** and moved into Web Developme
 
 ## 🌟 Featured Projects
 
-### 🎓 eTuitionBd
+### 💼 Personal Portfolio
 
-**Tutor & Student Marketplace**
+A personal portfolio application built to showcase projects, skills and professional information.
 
-A full-stack tuition platform connecting students and tutors with role-based functionality.
+**Stack:** Next.js • TypeScript • Tailwind CSS
 
-**Highlights**
-
-* 👥 Student & Tutor role-based system
-* 🔐 Firebase Authentication & protected routes
-* 📝 Tuition posting and application workflows
-* 🔎 Search and filtering
-* ❤️ Favorites
-* 📊 Role-based dashboards
-* 🔄 REST API based backend
-
-**Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase
-
-🔗 [Client Repository](https://github.com/sumu749/eTuitionBd-client-side)
+🔗 **[Live Demo](https://nexusfolio-pi.vercel.app/)** • **[Repository](https://github.com/sumu749/nexusfolio)**
 
 ---
 
@@ -181,17 +178,51 @@ A modern fashion e-commerce application focused on clean UI, responsive design a
 
 **Stack:** Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma • React • Framer Motion
 
-🔗 [Repository](https://github.com/sumu749/loomify-fashion-store)
+🔗 **[Live Demo](https://loomify-fashion-store.vercel.app/)** • **[Repository](https://github.com/sumu749/loomify-fashion-store)**
 
 ---
 
-### 🧠 SkillForge AI
+### 🧠 Nexora AI
 
-An AI-powered learning platform designed to provide an interactive learning experience.
+**AI-Powered Learning & Study Assistant**
 
-**Stack:** TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Clerk • AI APIs • React Query
+Nexora AI is an AI-powered learning platform designed to provide personalized learning support, intelligent course discovery, and an interactive AI tutor experience.
 
-🔗 [Repository](https://github.com/sumu749/skillForgeAI)
+**✨ Key Features**
+
+* 🤖 **AI Tutor** : Interactive AI-powered chat assistant that provides personalized learning support, explanations, and study guidance.
+* 📚 **Smart Course Recommendations** : Recommends relevant courses based on the learner's context and interests.
+* 🎯 **Personalized Learning Support** : Helps users understand concepts, explore topics, and get guidance throughout their learning journey.
+* 💬 **Interactive Tutor Experience** : Seamlessly integrates AI assistance into the dashboard for an engaging learning experience.
+* 🔐 **Secure Authentication** : Protected user experience powered by Clerk Authentication.
+* ⚡ **Modern Dashboard** : Clean and responsive dashboard designed to bring learning resources and AI assistance together.
+* 🧠 **OpenAI-Powered Intelligence** : Uses OpenAI through a secure backend API to power the AI tutor experience.
+* 🔄 **Efficient Data Fetching** : React Query is used for efficient server-state management and API interactions.
+
+**Stack:** TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Clerk • OpenAI API • React Query
+
+🔗 **[Live Demo](https://skill-forge-ai-api.vercel.app/)** • **[Repository](https://github.com/sumu749/nexora-ai)**
+
+
+### 🎓 eTuitionBd
+
+**Tutor & Student Marketplace**
+
+A full-stack tuition platform connecting students and tutors with role-based functionality.
+
+**Highlights**
+
+* 👥 Student & Tutor role-based system
+* 🔐 Firebase Authentication & protected routes
+* 📝 Tuition posting and application workflows
+* 🔎 Search and filtering
+* ❤️ Favorites
+* 📊 Role-based dashboards
+* 🔄 REST API based backend
+
+**Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase
+
+🔗 **[Live Demo](https://etuitionbd-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/eTuitionBd-client-side)**
 
 ---
 
@@ -201,17 +232,7 @@ A modern car rental platform with booking-focused workflows and responsive UI.
 
 **Stack:** React • Node.js • Express.js • MongoDB
 
-🔗 [Client Repository](https://github.com/sumu749/rentWheel-client-side)
-
----
-
-### 💼 Nexusfolio
-
-A personal portfolio application built to showcase projects, skills and professional information.
-
-**Stack:** Next.js • TypeScript • Tailwind CSS
-
-🔗 [Repository](https://github.com/sumu749/nexusfolio)
+🔗 **[Live Demo](https://rentwheel-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/rentWheel-client-side)**
 
 ---
 
@@ -221,38 +242,7 @@ A minimal inventory management application with authentication and modern dashbo
 
 **Stack:** Next.js • Tailwind CSS • Firebase
 
-🔗 [Repository](https://github.com/sumu749/Inventra-for-revenio)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sumu749&theme=tokyo-night&hide_border=true"
-    alt="Sumaiya's GitHub Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu749&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sumu749&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+🔗 **[Live Demo](https://inventra-for-revenio.vercel.app/)** • **[Repository](https://github.com/sumu749/Inventra-for-revenio)**
 
 ---
 
@@ -263,26 +253,6 @@ A minimal inventory management application with authentication and modern dashbo
 * 🌐 Participated in **Web Hackathon 2024**
 * 🚀 Built multiple full-stack web applications
 * 📚 Continuously learning modern JavaScript and TypeScript ecosystem technologies
-
----
-
-## 🎯 Current Learning
-
-```text
-TypeScript
-    ↓
-Advanced React Patterns
-    ↓
-Next.js App Router
-    ↓
-PostgreSQL + Prisma
-    ↓
-Backend Architecture
-    ↓
-Docker + CI/CD
-    ↓
-Cloud & Deployment
-```
 
 ---
 
