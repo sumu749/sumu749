@@ -17,31 +17,44 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=9B5DE0&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;TypeScript+Learner;Problem+Solver;Building+Modern+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=9B5DE0&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;TypeScript+Enthusiast;Backend+Architecture;Scalable+Solutions"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-
-<a href="mailto:sumaiya.cse.tec@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://github.com/sumu749">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://nexusfolio-pi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-9B5DE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sumaiya-alam749/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+  <a href="mailto:sumaiya.cse.tec@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sumu749">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://nexusfolio-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-9B5DE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sumaiya-alam749/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumu749&color=blueviolet" alt="Profile views"/>
+</p>
+
+---
+
+## 📑 Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Statistics](#-github-statistics)
+- [Currently Working On](#-currently-working-on)
+- [Achievements & Activities](#-achievements--activities)
+- [Let's Collaborate](#-lets-collaborate)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
@@ -49,7 +62,7 @@
 
 I'm a **Computer Science & Engineering student and Full-Stack Web Developer** passionate about building modern, responsive, and user-focused web applications.
 
-I started my programming journey with **C in 2023** and moved into Web Development in **2024**. Since then, I've been working with the JavaScript ecosystem while gradually expanding into **TypeScript, Next.js, PostgreSQL, Prisma, backend architecture, and modern development workflows**.
+I started my programming journey with **C in 2023** and moved into Web Development in **2024**. Since then, I've been working with the JavaScript ecosystem while gradually expanding into **TypeScript, modern frameworks, and backend architecture**.
 
 * 🚀 Building full-stack applications with React, Next.js, Node.js & Express
 * ⚡ Experienced with REST APIs, authentication, CRUD operations & role-based systems
@@ -153,9 +166,14 @@ I started my programming journey with **C in 2023** and moved into Web Developme
 
 ### 💼 Personal Portfolio
 
-A personal portfolio application built to showcase projects, skills and professional information.
+A personal portfolio application built to showcase projects, skills and professional information with a modern, responsive design.
 
 **Stack:** Next.js • TypeScript • Tailwind CSS
+
+**Key Features:**
+- Responsive design with smooth animations
+- Dark/Light mode support
+- Project showcase & skills display
 
 🔗 **[Live Demo](https://nexusfolio-pi.vercel.app/)** • **[Repository](https://github.com/sumu749/nexusfolio)**
 
@@ -167,14 +185,14 @@ A modern fashion e-commerce application focused on clean UI, responsive design a
 
 **Highlights**
 
-* 🛒 Shopping cart functionality
-* 📦 Product & category management
-* 🔍 Product browsing and filtering
-* 📱 Responsive UI
-* ✨ Framer Motion animations
-* ⚡ Next.js App Router
-* 🗄️ PostgreSQL & Prisma integration
-* 🔐 TypeScript-based architecture
+* 🛒 Shopping cart functionality with persistent storage
+* 📦 Product & category management with filtering
+* 🔍 Advanced product browsing and search
+* 📱 Fully responsive mobile-first design
+* ✨ Smooth Framer Motion animations
+* ⚡ Next.js App Router with SSR capabilities
+* 🗄️ PostgreSQL & Prisma ORM integration
+* 🔐 TypeScript-based type-safe architecture
 
 **Stack:** Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma • React • Framer Motion
 
@@ -182,47 +200,86 @@ A modern fashion e-commerce application focused on clean UI, responsive design a
 
 ---
 
-### 🧠 Nexora AI
+### 🧠 Nexora AI — AI-Powered Learning Platform
 
-**AI-Powered Learning & Study Assistant**
-
-Nexora AI is an AI-powered learning platform designed to provide personalized learning support, intelligent course discovery, and an interactive AI tutor experience.
+An intelligent learning platform designed to provide personalized education support with AI-driven course recommendations and interactive tutoring.
 
 **✨ Key Features**
 
-* 🤖 **AI Tutor** : Interactive AI-powered chat assistant that provides personalized learning support, explanations, and study guidance.
-* 📚 **Smart Course Recommendations** : Recommends relevant courses based on the learner's context and interests.
-* 🎯 **Personalized Learning Support** : Helps users understand concepts, explore topics, and get guidance throughout their learning journey.
-* 💬 **Interactive Tutor Experience** : Seamlessly integrates AI assistance into the dashboard for an engaging learning experience.
-* 🔐 **Secure Authentication** : Protected user experience powered by Clerk Authentication.
-* ⚡ **Modern Dashboard** : Clean and responsive dashboard designed to bring learning resources and AI assistance together.
-* 🧠 **OpenAI-Powered Intelligence** : Uses OpenAI through a secure backend API to power the AI tutor experience.
-* 🔄 **Efficient Data Fetching** : React Query is used for efficient server-state management and API interactions.
+* 🤖 **AI Tutor:** Interactive AI-powered chat assistant with personalized learning support
+* 📚 **Smart Course Recommendations:** Context-aware course suggestions
+* 🎯 **Personalized Learning Support:** Adaptive guidance throughout learning journey
+* 💬 **Interactive Tutor Experience:** Seamless AI assistance integration
+* 🔐 **Secure Authentication:** Powered by Clerk Authentication
+* ⚡ **Modern Dashboard:** Clean, responsive learning hub
+* 🧠 **OpenAI-Powered Intelligence:** Advanced AI capabilities via secure backend
+* 🔄 **Efficient Data Fetching:** React Query for optimal performance
 
 **Stack:** TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Clerk • OpenAI API • React Query
 
 🔗 **[Live Demo](https://skill-forge-ai-api.vercel.app/)** • **[Repository](https://github.com/sumu749/nexora-ai)**
 
+---
 
-### 🎓 eTuitionBd
+### 🎓 eTuitionBd — Tutor & Student Marketplace
 
-**Tutor & Student Marketplace**
-
-A full-stack tuition platform connecting students and tutors with role-based functionality.
+A full-stack tuition platform connecting students and tutors with comprehensive role-based functionality and secure authentication.
 
 **Highlights**
 
-* 👥 Student & Tutor role-based system
-* 🔐 Firebase Authentication & protected routes
+* 👥 Student & Tutor role-based system with different dashboards
+* 🔐 Firebase Authentication with protected routes
 * 📝 Tuition posting and application workflows
-* 🔎 Search and filtering
-* ❤️ Favorites
-* 📊 Role-based dashboards
-* 🔄 REST API based backend
+* 🔎 Advanced search and filtering capabilities
+* ❤️ Favorites & bookmarking system
+* 📊 Role-based dashboards with analytics
+* 🔄 RESTful API backend with proper validation
 
 **Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase
 
 🔗 **[Live Demo](https://etuitionbd-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/eTuitionBd-client-side)**
+
+---
+
+### 🚗 RentWheel — Car Rental Platform
+
+A modern car rental platform with an intuitive booking system and responsive user interface.
+
+**Stack:** React • Node.js • Express.js • MongoDB
+
+**Features:** Vehicle browsing, real-time availability, secure booking system, user dashboard
+
+🔗 **[Live Demo](https://rentwheel-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/rentWheel-client-side)**
+
+---
+
+### 📦 Inventra for Revenio — Inventory Management
+
+A minimal yet powerful inventory management application with secure authentication and modern dashboard architecture.
+
+**Stack:** Next.js • Tailwind CSS • Firebase
+
+🔗 **[Live Demo](https://inventra-for-revenio.vercel.app/)** • **[Repository](https://github.com/sumu749/Inventra-for-revenio)**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu749&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔭 Currently Working On
+
+* 🚀 Building scalable backend systems with TypeScript & Node.js
+* 📚 Exploring advanced PostgreSQL optimization & database design patterns
+* 🐳 Learning Docker & containerization best practices for production deployments
+* ⚡ Deepening expertise in Next.js App Router & server components
+* 🔐 Understanding advanced authentication patterns & OAuth flows
+* 🎯 Preparing for full-time Junior Full-Stack Developer positions
 
 ---
 
@@ -231,8 +288,22 @@ A full-stack tuition platform connecting students and tutors with role-based fun
 * 💻 Solved **100+ programming problems** using C++
 * 🏆 Participated in **University Programming Contest 2025**
 * 🌐 Participated in **Web Hackathon 2024**
-* 🚀 Built multiple full-stack web applications
-* 📚 Continuously learning modern JavaScript and TypeScript ecosystem technologies
+* 🚀 Built **6+ full-stack web applications** with production-ready code
+* 📚 Continuously learning and mastering modern JavaScript & TypeScript ecosystem
+* 🌟 Active open-source enthusiast and community contributor
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- **Full-Stack Development Opportunities** — Building scalable web applications
+- **Open-Source Contributions** — Contributing to meaningful projects
+- **Freelance Projects** — React/Next.js/Node.js development
+- **Mentorship & Learning** — Growing together with the developer community
+
+Feel free to reach out! I'm always excited to work on challenging projects and learn new technologies.
 
 ---
 
@@ -252,6 +323,10 @@ A full-stack tuition platform connecting students and tutors with role-based fun
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://nexusfolio-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-9B5DE0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
 </p>
 
 ---
@@ -261,5 +336,5 @@ A full-stack tuition platform connecting students and tutors with role-based fun
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile! ⭐ Feel free to star ⭐ my repositories if you find them useful!
 </p>
