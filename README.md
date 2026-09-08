@@ -265,10 +265,19 @@ A minimal yet powerful inventory management application with secure authenticati
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumu749&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumu749&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a0aec0)](https://github.com/sumu749)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumu749&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=a0aec0)](https://github.com/sumu749)
+
+</div>
+
+<div align="center">
+  
+  [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sumu749&theme=tokyonight&hide_border=true&background=1a1b27)](https://github.com/sumu749)
+
+</div>
 
 ---
 
