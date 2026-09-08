@@ -185,14 +185,14 @@ A modern fashion e-commerce application focused on clean UI, responsive design a
 
 **Highlights**
 
-* 🛒 Shopping cart functionality with persistent storage
-* 📦 Product & category management with filtering
-* 🔍 Advanced product browsing and search
-* 📱 Fully responsive mobile-first design
-* ✨ Smooth Framer Motion animations
-* ⚡ Next.js App Router with SSR capabilities
-* 🗄️ PostgreSQL & Prisma ORM integration
-* 🔐 TypeScript-based type-safe architecture
+*  Shopping cart functionality with persistent storage
+*  Product & category management with filtering
+*  Advanced product browsing and search
+*  Fully responsive mobile-first design
+*  Smooth Framer Motion animations
+*  Next.js App Router with SSR capabilities
+*  PostgreSQL & Prisma ORM integration
+*  TypeScript-based type-safe architecture
 
 **Stack:** Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma • React • Framer Motion
 
@@ -206,14 +206,14 @@ An intelligent learning platform designed to provide personalized education supp
 
 **✨ Key Features**
 
-* 🤖 **AI Tutor:** Interactive AI-powered chat assistant with personalized learning support
-* 📚 **Smart Course Recommendations:** Context-aware course suggestions
-* 🎯 **Personalized Learning Support:** Adaptive guidance throughout learning journey
-* 💬 **Interactive Tutor Experience:** Seamless AI assistance integration
-* 🔐 **Secure Authentication:** Powered by Clerk Authentication
-* ⚡ **Modern Dashboard:** Clean, responsive learning hub
-* 🧠 **OpenAI-Powered Intelligence:** Advanced AI capabilities via secure backend
-* 🔄 **Efficient Data Fetching:** React Query for optimal performance
+*  **AI Tutor:** Interactive AI-powered chat assistant with personalized learning support
+*  **Smart Course Recommendations:** Context-aware course suggestions
+*  **Personalized Learning Support:** Adaptive guidance throughout learning journey
+*  **Interactive Tutor Experience:** Seamless AI assistance integration
+*  **Secure Authentication:** Powered by Clerk Authentication
+*  **Modern Dashboard:** Clean, responsive learning hub
+*  **OpenAI-Powered Intelligence:** Advanced AI capabilities via secure backend
+*  **Efficient Data Fetching:** React Query for optimal performance
 
 **Stack:** TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Clerk • OpenAI API • React Query
 
@@ -227,39 +227,17 @@ A full-stack tuition platform connecting students and tutors with comprehensive 
 
 **Highlights**
 
-* 👥 Student & Tutor role-based system with different dashboards
-* 🔐 Firebase Authentication with protected routes
-* 📝 Tuition posting and application workflows
-* 🔎 Advanced search and filtering capabilities
-* ❤️ Favorites & bookmarking system
-* 📊 Role-based dashboards with analytics
-* 🔄 RESTful API backend with proper validation
+*  Student & Tutor role-based system with different dashboards
+*  Firebase Authentication with protected routes
+*  Tuition posting and application workflows
+*  Advanced search and filtering capabilities
+*  Favorites & bookmarking system
+*  Role-based dashboards with analytics
+*  RESTful API backend with proper validation
 
 **Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase
 
 🔗 **[Live Demo](https://etuitionbd-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/eTuitionBd-client-side)**
-
----
-
-### 🚗 RentWheel — Car Rental Platform
-
-A modern car rental platform with an intuitive booking system and responsive user interface.
-
-**Stack:** React • Node.js • Express.js • MongoDB
-
-**Features:** Vehicle browsing, real-time availability, secure booking system, user dashboard
-
-🔗 **[Live Demo](https://rentwheel-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/rentWheel-client-side)**
-
----
-
-### 📦 Inventra for Revenio — Inventory Management
-
-A minimal yet powerful inventory management application with secure authentication and modern dashboard architecture.
-
-**Stack:** Next.js • Tailwind CSS • Firebase
-
-🔗 **[Live Demo](https://inventra-for-revenio.vercel.app/)** • **[Repository](https://github.com/sumu749/Inventra-for-revenio)**
 
 ---
 
@@ -283,23 +261,23 @@ A minimal yet powerful inventory management application with secure authenticati
 
 ## 🔭 Currently Working On
 
-* 🚀 Building scalable backend systems with TypeScript & Node.js
-* 📚 Exploring advanced PostgreSQL optimization & database design patterns
-* 🐳 Learning Docker & containerization best practices for production deployments
-* ⚡ Deepening expertise in Next.js App Router & server components
-* 🔐 Understanding advanced authentication patterns & OAuth flows
-* 🎯 Preparing for full-time Junior Full-Stack Developer positions
+*  Building scalable backend systems with TypeScript & Node.js
+*  Exploring advanced PostgreSQL optimization & database design patterns
+*  Learning Docker & containerization best practices for production deployments
+*  Deepening expertise in Next.js App Router & server components
+*  Understanding advanced authentication patterns & OAuth flows
+*  Preparing for full-time Junior Full-Stack Developer positions
 
 ---
 
 ## 🏆 Achievements & Activities
 
-* 💻 Solved **100+ programming problems** using C++
-* 🏆 Participated in **University Programming Contest 2025**
-* 🌐 Participated in **Web Hackathon 2024**
-* 🚀 Built **6+ full-stack web applications** with production-ready code
-* 📚 Continuously learning and mastering modern JavaScript & TypeScript ecosystem
-* 🌟 Active open-source enthusiast and community contributor
+*  Solved **100+ programming problems** using C++
+*  Participated in **University Programming Contest 2025**
+*  Participated in **Web Hackathon 2024**
+*  Built **6+ full-stack web applications** with production-ready code
+*  Continuously learning and mastering modern JavaScript & TypeScript ecosystem
+*  Active open-source enthusiast and community contributor
 
 ---
 
