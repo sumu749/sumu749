@@ -226,26 +226,6 @@ A full-stack tuition platform connecting students and tutors with role-based fun
 
 ---
 
-### 🚗 RentWheel
-
-A modern car rental platform with booking-focused workflows and responsive UI.
-
-**Stack:** React • Node.js • Express.js • MongoDB
-
-🔗 **[Live Demo](https://rentwheel-by-sumu.web.app/)** • **[Repository](https://github.com/sumu749/rentWheel-client-side)**
-
----
-
-### 📦 Inventra for Revenio
-
-A minimal inventory management application with authentication and modern dashboard architecture.
-
-**Stack:** Next.js • Tailwind CSS • Firebase
-
-🔗 **[Live Demo](https://inventra-for-revenio.vercel.app/)** • **[Repository](https://github.com/sumu749/Inventra-for-revenio)**
-
----
-
 ## 🏆 Achievements & Activities
 
 * 💻 Solved **100+ programming problems** using C++
